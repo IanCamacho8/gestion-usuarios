@@ -4,7 +4,7 @@ Sistema completo de gestion de usuarios desarrollado por la sala 4, con PHP, MyS
 
 ## Instalacion
 
-1. Clonar el repositorio en `..\xampp\htdocs\gestion-usuarios` (XAMPP) o `..\wamp64\www\gestion-usuarios` (WAMP)
+1. Clonar los archivos del repositorio en `..\xampp\htdocs\gestion-usuarios` (XAMPP) o `..\wamp64\www\gestion-usuarios` (WAMP)
 
 2. Abrir phpMyAdmin y ejecutar el archivo `database.sql` para crear la base de datos y las tablas
 
